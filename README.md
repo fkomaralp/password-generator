@@ -2,7 +2,9 @@
 Basit ve kuvvetli şifre oluştucu php fonksiyon
 
 # Kullanım
-    createNewPassword("llluddsss")
+    createNewPassword("llluddsss") // abcD52%&_
+    ...
+    createNewPassword("luuuddddss") // vPLM8220%+
 
 **l** : Küçük harf (Lower-case letter)
 
